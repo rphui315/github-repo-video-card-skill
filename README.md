@@ -33,6 +33,8 @@
 
 成片视频：
 
+<video src="https://github.com/rphui315/github-repo-video-card-skill/releases/download/v0.1-demo/github-card-skill-opensource-intro-v2-with-cover.mp4" controls width="100%"></video>
+
 - [Watch / download demo video](https://github.com/rphui315/github-repo-video-card-skill/releases/tag/v0.1-demo)
 
 ## What It Does Not Include
