@@ -38,6 +38,7 @@
 完整视频：
 
 - [Watch / download demo video](https://github.com/rphui315/github-repo-video-card-skill/releases/tag/v0.1-demo)
+- [Direct MP4 download](https://github.com/rphui315/github-repo-video-card-skill/releases/download/v0.1-demo/openwhispr_with_cover_1s.mp4)
 
 ## What It Does Not Include
 
