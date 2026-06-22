@@ -31,9 +31,11 @@
 
 ![Cover samples](docs/assets/demo-cover-samples.jpg)
 
-成片视频：
+成片预览：
 
-<video src="https://github.com/rphui315/github-repo-video-card-skill/releases/download/v0.1-demo/github-card-skill-opensource-intro-v2-with-cover.mp4" controls width="100%"></video>
+![Demo video preview](docs/assets/demo-preview.gif)
+
+完整视频：
 
 - [Watch / download demo video](https://github.com/rphui315/github-repo-video-card-skill/releases/tag/v0.1-demo)
 
