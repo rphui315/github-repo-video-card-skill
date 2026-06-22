@@ -2,7 +2,7 @@
 
 一个实验性的 Codex Skill，用来把 GitHub 开源项目整理成中文短视频包。
 
-它的目标不是生成一个万能模板，而是把制作 GitHub 项目介绍视频时反复做的事情收拢起来：选题判断、README 提炼、截图计划、中文说明、分镜、封面提示词、标题和标签。
+它把制作 GitHub 项目介绍视频时反复做的事情收拢起来：选题判断、README 提炼、截图计划、中文说明、分镜、封面提示词、标题和标签。
 
 ## What It Does
 
@@ -90,4 +90,3 @@ cp -R skills/github-repo-video-card ~/.codex/skills/
 ## License
 
 MIT
-
