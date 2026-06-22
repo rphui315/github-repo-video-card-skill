@@ -19,6 +19,22 @@
 
 如果你的本地 Codex 环境有截图、图像生成和 HyperFrames 渲染能力，也可以继续把它做成视频。
 
+## Demo
+
+这个仓库主分支只放轻量预览图。完整 MP4 放在 GitHub Releases，避免仓库变成素材库。
+
+封面预览：
+
+![Demo cover](docs/assets/demo-cover.png)
+
+多个封面样例：
+
+![Cover samples](docs/assets/demo-cover-samples.jpg)
+
+成片视频：
+
+- [Watch / download demo video](https://github.com/rphui315/github-repo-video-card-skill/releases/tag/v0.1-demo)
+
 ## What It Does Not Include
 
 这个开源版本不包含：
@@ -26,7 +42,7 @@
 - 作者个人头像参考图
 - 私有封面风格参考图
 - 本地机器路径
-- 已经生成的视频资产
+- 主分支里的大体积视频资产
 - 自动发布平台接口
 
 不同机器上的 Codex、截图工具、图像生成工具和 HyperFrames 环境可能不一样，所以你需要按自己的环境调整。
